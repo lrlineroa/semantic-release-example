@@ -5,4 +5,5 @@ console.log("I need a new minor version");
 console.log("I need a really new minor version");
 console.log("I need a really really new minor version");
 console.log("I need a really really new minor version but this will be only a feat");
+console.log("I need this from develop")
 
